@@ -11,7 +11,7 @@
 ## Kategoriler
 
 <div>
-<img src="Admin%20Paneli%20-%20Kategoriler.png" width="335px"  >
+<img src="Admin%20Paneli%20-%20Kategoriler.png" width="330px"  >
 <img src="Admin%20Paneli%20-%20Kategori%20Ekleme.png" width="400px"  >
 <img src="Admin%20Paneli%20-%20Kategori%20Güncelle.png" width="400px"  >
 </div>
@@ -19,14 +19,14 @@
 ## Yemekler
 
 <div>
-<img src="Admin%20Paneli%20-%20Yemek%20Ekleme.png" width="380px"  >
+<img src="Admin%20Paneli%20-%20Yemek%20Ekleme.png" width="370px"  >
 <img src="Admin%20Paneli%20-%20Yemek%20Listesi.png" width="420px"  >
 </div>
 
 ## Yorumlar
 
 <div>
-<img src="Admin%20Paneli%20-%20Yorumlar.png" width="520px"  >
+<img src="Admin%20Paneli%20-%20Yorumlar.png" width="525px"  >
 <img src="Admin%20Paneli%20-%20Yorumlar%20Düzenle.png" width="440px"  >
 </div>
 
@@ -34,20 +34,20 @@
 
 <div>
 <img src="Admin%20Paneli%20-%20Mesajlar.png" width="420px"  >
-<img src="Admin%20Paneli%20-%20Mesaj%20Listesi.png" width="460px"  >
+<img src="Admin%20Paneli%20-%20Mesaj%20Listesi.png" width="470px"  >
 </div>
 
 ## Tarifler
 
 <div>
-<img src="Admin%20Paneli%20-%20Tarifler.png" width="470px"  >
+<img src="Admin%20Paneli%20-%20Tarifler.png" width="480px"  >
 <img src="Admin%20Paneli%20-%20Tarif%20Onayla.png" width="410px"  >
 </div>
 
 ## Günün Yemeği
 
 <div>
-<img src="Admin%20Paneli%20-%20Yemekler.png" width="480px"  >
+<img src="Admin%20Paneli%20-%20Yemekler.png" width="490px"  >
 <img src="Admin%20Paneli%20-%20Günün%20Yemeği.png" width="420px"  >
 </div>
 
