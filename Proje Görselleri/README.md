@@ -11,7 +11,7 @@
 ## Kategoriler
 
 <div>
-<img src="Admin%20Paneli%20-%20Kategoriler.png" width="400px"  >
+<img src="Admin%20Paneli%20-%20Kategoriler.png" width="320px"  >
 <img src="Admin%20Paneli%20-%20Kategori%20Ekleme.png" width="400px"  >
 <img src="Admin%20Paneli%20-%20Kategori%20Güncelle.png" width="400px"  >
 </div>
