@@ -4,8 +4,8 @@ ASP.NET kullanılarak Kullanıcı ve Admin Panelleri içeren yemek tarifleri sit
 
 Proje görsellerine [buradan] ulaşabilirsiniz.
 <div>
-<img src="Proje%20Görselleri/Admin%20Paneli%20-%20Master%20Page.png" width="220px"  >
-<img src="Proje%20Görselleri/Ana%20Sayfa.png" width="220px" >
+<img src="Proje%20Görselleri/Admin%20Paneli%20-%20Master%20Page.png" width="420px"  >
+<img src="Proje%20Görselleri/Ana%20Sayfa.png" width="280px" >
 
 </div>
 
