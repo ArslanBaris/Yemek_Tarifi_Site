@@ -1,2 +1,2 @@
 # Proje Görselleri 
-## Admin Paneli
+# Admin Paneli
