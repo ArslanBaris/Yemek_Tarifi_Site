@@ -20,6 +20,7 @@
 
 <div>
 <img src="Admin%20Paneli%20-%20Yemek%20Ekleme.png" width="400px"  >
+<img src="  Admin%20Paneli%20-%20Yemek%20Listesi.png" width="400px"  >
 </div>
 
 ## Yorumlar
@@ -65,6 +66,7 @@
 
 <div>
 <img src="Mesaj%20Paneli.png" width="420px"  >
+<img src="Admin%20Paneli%20-%20Mesaj%20Listesi.png" width="420px"  >
 </div>
 
 ## Yorum Yapma Paneli
